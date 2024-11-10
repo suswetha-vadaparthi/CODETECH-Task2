@@ -22,6 +22,7 @@ DURATION:SEPTEMBER TO NOVEMBER
 * CSS: For styling and providing visual themes, with customized colors for different task categories (e.g., personal and business).
 * JavaScript: For functionality, including task addition, category selection, marking tasks as completed, editing tasks, and storing user data using localStorage.
 ## Output Link:
+https://suswetha-vadaparthi.github.io/CODETECH-Task2/
 
 
 Output:
